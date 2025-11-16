@@ -26,8 +26,15 @@ entre la base de données et le frontend
    ```bash
    git clone https://github.com/Ilyasse-ben/simple-website.git
 2. entre a le ficher Backend et mette la commend npx nodomon index.js
-3. entre a le ficher Frontend et mette la commend ng serve 
+   ```bash  
+      nodomon index.js
+
+3. entre a le ficher Frontend et mette la commend ng serve
+   ```bash  
+      ng serve
 4. donne le nagigateur taper localhost:3000
+   ```bash  
+      localhost:3000
 ## 🛠️ Technologies utilisées
   Python (BeautifulSoup)
   MongoDB
